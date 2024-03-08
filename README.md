@@ -1,4 +1,4 @@
-# Cintinuous Delivery with Tanzu Mission Control
+# Continuous Delivery with Tanzu Mission Control
 This code is used to set up continuous delivery for Tanzu Mission Control demos and POCs.
 
 ## Prerequisites and Setup
